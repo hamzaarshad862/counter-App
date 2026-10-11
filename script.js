@@ -1,18 +1,18 @@
-let counter = document.getElementById('counter');
+let labelCounter = document.getElementById('labelCounter');
 
 let count = 0;
 
 function increase(){
     count++;
-    counter.innerHTML = count;
+    labelCounter.innerHTML = count;
 }
 
 function decrease(){
     count--;
-    counter.innerHTML = count;
+    labelCounter.innerHTML = count;
 }
 
 function reset(){
     count = 0;
-    counter.innerHTML = count;
+    labelCounter.innerHTML = count;
 }

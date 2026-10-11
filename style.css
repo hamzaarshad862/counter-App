@@ -35,21 +35,21 @@ button{
 }
 
 .button1{
-    background-color: hsla(0, 87%, 44%, 0.971);
+     background-color: hsla(109, 87%, 44%, 0.971);
 }
 .button2{
     background-color: hsla(209, 87%, 44%, 0.971);
 }
 .button3{
-    background-color: hsla(109, 87%, 44%, 0.971);
+    background-color: hsla(0, 87%, 44%, 0.971);
 }
 
 .button1:hover{
-    background-color: hsla(0, 93%, 38%, 0.971);
+    background-color: hsla(89, 98%, 32%, 0.971);
 }
 .button2:hover{
     background-color: hsla(214, 93%, 38%, 0.971);
 }
 .button3:hover{
-    background-color: hsla(89, 98%, 32%, 0.971);
+    background-color: hsla(0, 93%, 38%, 0.971);
 }
